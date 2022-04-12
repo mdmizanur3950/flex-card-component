@@ -5,7 +5,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 ### Links
 
 - Solution URL: https://github.com/mdmizanur3950/flex-card-component.git
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://mdmizanur3950.github.io/flex-card-component/
 
 
 
