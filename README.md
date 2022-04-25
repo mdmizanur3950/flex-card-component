@@ -20,5 +20,5 @@ I have done this project as a practice of my Flexbox knowledge. The project work
 
 ## Author
 
-- Website - [Add your name here](https://www.mdmizanurrahman.com/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/mdmizanur3950)
+- Website - (https://www.mdmizanurrahman.com/)
+- Frontend Mentor - (https://www.frontendmentor.io/profile/mdmizanur3950)
